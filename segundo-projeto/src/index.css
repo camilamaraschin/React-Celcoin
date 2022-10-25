@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.topo {
+  height: 50px;
+  background-color: #23bc90;
+  padding: 10px;
+  font-size: 5px;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 32px;
+  
+  
+}
+.link{
+  text-decoration: none;
+  color: black;
+  margin: 10px;
+  font-size: 20px;
+    
+}
+.corpo{
+  padding:10px;
+  color: #23cb90;
+  
+
+}
+
+.sobremim, .saibamais{
+  margin-top: 10px;
+  padding:5px;
+  text-align:justify;
+  font-size: 15px;
+  border: 2px solid black;
+  border-radius: 20px;
+}
+
+.contato ul{
+  list-style: none;
+  padding: 50px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+   
+}
+.Rodape{
+  padding: 10px;
+  color: #23cb90;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
