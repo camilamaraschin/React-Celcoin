@@ -1,0 +1,22 @@
+body{
+  background-color: black;
+  padding:10em;
+  margin:10px;
+}
+.contador {
+  color:white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 5px solid green;
+  padding:50px;
+  margin:10px;
+}
+.botao{
+  display: flex;
+  flex-direction: row;
+  
+  
+
+}
